@@ -1,4 +1,4 @@
-# izumi
+# Izumi (泉)
 An gentoo overlay for package that made by me
 
 # Installation
