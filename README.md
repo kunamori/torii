@@ -2,7 +2,7 @@
 An gentoo overlay for package that made by me
 
 # Installation
----
+
 Install required software:
 
 `sudo emerge --ask app-eselect/eselect-repository dev-vcs/git`
